@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next"],
+    "source_code": "https://github.com/abhra2020-smart/vscode-portfolio",
+    "demo": "http://localhost:3000"
+  }
+]
